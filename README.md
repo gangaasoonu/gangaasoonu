@@ -1,4 +1,4 @@
-## Hi there 👋
+## ಪರ್ಪಂಚ್ ಇರೋತನಕ ಮುಂದೆ ಕನ್ನಡ್ ಪದಗೋಳ್ ನುಗ್ಲಿ
 
 <!--
 **gangaasoonu/gangaasoonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
