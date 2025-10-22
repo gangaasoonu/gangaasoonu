@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gangaasoonu)](https://github.com/gangaasoonu/github-readme-stats)
 
 
+Below is just ಖಾಲಿ ಒಣ ಪಂಟು, ಪೈಸೆ ಪ್ರಯೋಜನ ಇಲ್ಲದ್ದು
 [![An image of @gangaasoonu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gangaasoonu)](https://holopin.io/@gangaasoonu)
 
 - 🔭 I’m currently working on ... creating a flutter based App for kids to draw shapes
