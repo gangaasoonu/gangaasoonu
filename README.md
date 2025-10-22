@@ -3,6 +3,9 @@
 <!--
 **gangaasoonu/gangaasoonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+[![An image of @gangaasoonu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gangaasoonu)](https://holopin.io/@gangaasoonu)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... creating a flutter based App for kids to draw shapes
@@ -17,6 +20,3 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gangaasoonu)](https://github.com/gangaasoonu/github-readme-stats)
-
-[![@Gangaasoonu's Holopin board](https://holopin.io/api/user/board?user=Gangaasoonu)](https://holopin.io/@rphi)  no monetary value, just ಖಾಲಿ ಒಣ ಪಂಟು bragging
-
